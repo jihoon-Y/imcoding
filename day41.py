@@ -55,3 +55,5 @@ print(calculate_area(radius))
 radius = 8 # 반지름
 print(calculate_circumference(radius))
 print(calculate_area(radius))
+
+# 파이썬에서는 PEP8이라는 스타일가이드가 있다
